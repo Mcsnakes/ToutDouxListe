@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="liste_filtre">
+        <item>ALL</item>
+        <item>Valider</item>
+        <item>Non valider</item>
+    </string-array>
+</resources>
